@@ -1,3 +1,7 @@
+# Project: implementation of ![Miller et al](https://cs.dartmouth.edu/~wjarosz/publications/miller19null.html) volumentric
+We forked the Yocto/GL library and added the heterogeneous volumetrics algorithm.
+We also added ![NanoVDB](https://developer.nvidia.com/nanovdb) support and models.
+
 # Yocto/GL: Tiny C++ Libraries for Data-Oriented Physically-based Graphics
 
 Yocto/GL is a collection of small C++17 libraries for building
